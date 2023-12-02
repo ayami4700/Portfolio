@@ -4,5 +4,5 @@
 wheelcolliderという特殊なコライダーを使用し、よりリアルの車の動きを再現しています  
 # 再現方法  
 Download ZIP→Unityで開いてください  
-**UnityAssetStoreより「Cartoon Race Track - Oval」のダウンロードをお願いします**
+**UnityAssetStoreより「Cartoon Race Track - Oval」のダウンロードをお願いします**  
 ファイルのアップロード上限のため、上記アセットを抜いた状態でGitHubにアップロードしています  
